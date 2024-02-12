@@ -1,2 +1,2 @@
 # turtle-races
-A game based on checking which turtle will finish the Rach
+A game based on checking which turtle will finish the Race
